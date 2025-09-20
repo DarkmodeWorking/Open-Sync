@@ -61,7 +61,7 @@ export function Footer() {
       links: [
         { label: 'Open Docs', href: 'https://amethysts-beta.vercel.app' },
         { label: 'Open Sync', href: 'https://emeralds-beta.vercel.app' },
-        { label: 'Open Auth', href: 'https://diamonds-beta.vercel.app' },
+        { label: 'Open Quantum', href: 'https://rubys-beta.vercel.app' },
       ],
     },
   ]
